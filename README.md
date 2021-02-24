@@ -11,6 +11,6 @@ In my free time I've built and maintain various open-source projects of my own l
 - PMS - (a tbd name for a task management with chat system)
 - Bento - A general inventory system for small stores and company
 - Keep - a asset tracker and keeping system
-- WIP GELICA - A pending work for church management system
+- GELICA - WIP: A pending work for church management system
 
 Working on open-source and private project is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
