@@ -10,9 +10,9 @@ In my free time I've built and maintain various open-source projects of my own l
 - Currently learning php frameworks and core operations
 - Tasker - A task management with chat system and notes for keeping purposes
 - Bento - A general inventory system for small stores and company
-- Keep-trak - a asset tracker and keeping system
+- Keep-trak - An asset tracker and keeping system
 - Tir - A Traffic Information and Rescue system
-- FreemiumCareers - A tutorial website for learning and discussion
-- Gelica - WIP: A pending work for church management system
+- Freemium Careers - A tutorial website for learning and discussion
+- Gelica - WIP: A work in progress project for church management system
 
 Working on open-source and private project is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
