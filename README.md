@@ -6,7 +6,6 @@ I'm jagwarthegreat, open-source and private repo maintainer and one of the core 
 
 In my free time I've built and maintain various open-source projects of my own like:
 
-- Notes Farm Management System - A management system  for farm owners and feed manufacturers.
 - Currently learning php frameworks and core operations
 - Tasker - A task management with chat system and notes for keeping purposes
 - Bento - A general inventory system for small stores and company
