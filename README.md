@@ -6,4 +6,4 @@ As a seasoned software developer with nearly 9 years of experience, I specialize
 
 My ability to perform effectively under pressure ensures that I consistently meet deadlines and targets, all while delivering work of the highest quality. Collaborating within dynamic teams has not only allowed me to contribute my expertise but also provided invaluable opportunities for learning from others. In the ever-evolving realm of technology, I firmly believe that being a programmer necessitates continual learning and adaptation to the ever-changing tech landscape.
 
-Working on open-source and private project is my great joy in life and I want to be able to do that as much and as long as I possible can. I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+Engaging in both open-source and private projects brings me immense joy and fulfillment, and I aspire to continue doing so for as long as I can. I hope you find value in the work I produce, and that it proves beneficial to you. Thank you for your support!
